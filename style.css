@@ -747,6 +747,7 @@ text-shadow: black 2px;
 
 /*FORMMMMMMMMM*/
 #Contact_form{
+padding:10px;
 
 }
 
@@ -758,6 +759,8 @@ background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     margin-bottom: 20px;
+    border-radius: 20px;
+    overflow: hidden;
 }
 
 #communicate_heading{
